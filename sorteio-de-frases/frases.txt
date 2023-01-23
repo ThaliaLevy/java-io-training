@@ -1,0 +1,51 @@
+1#How are you doing? - Como está você? 
+2#What's up? - E aí?
+3#How is the weather over there? - Como está o clima (tempo) aí?
+4#It's raining - Está chovendo
+5#It's too hot today - Está fazendo calor demais hoje
+6# What's the matter? - O que foi?
+7#How much is the ticket? - Quanto é o ingresso?
+8#What time is it? - Que horas são?
+9#No problem - De nada/Não tem problema
+10#What do you think? - O que você acha?
+11#Do you understand? - Você entendeu?
+12#Could you please speak slower? - Você poderia falar mais devagar, por favor?
+13#What’s your phone number? - Qual é o número do seu telefone?
+14#What do you like to do in your free time? - O que você gosta de fazer nas horas vagas?
+15#I hang out with my friends - Eu saio com os meus amigos
+16#Do you have pets? - Você tem animais de estimação?
+17#Where do you work? - Onde você trabalha?
+18#I'll take this - Eu vou levar este
+19#Where is the restroom? - Onde é o banheiro?
+20#What’s the purpose of your visit? - Qual é o motivo da sua visita?
+21#See you soon - Até breve
+22#That’s ok - Está ok
+23#I’m fine. How about you? - Eu estou bem. E quanto a você?
+24#I’m Brazilian. What about you? - Eu sou brasileiro. E quanto a você?
+25#What do you do? - O que você faz?
+26#These things happen - Estas coisas acontecem
+27#How much does the museum admission cost? - Quanto custa o ingresso do museu?
+28#Where is the nearest pharmacy, please? - Onde fica a farmácia mais próxima, por favor?
+29#Why isn’t the shower heating up? - Por que o chuveiro não está esquentando?
+30#I was wondering, could you give some directions? - Eu queria saber, você poderia dar algumas instruções?
+31#How was your day? - Como foi o seu dia?
+32#What do you think of the last movie? - O que você achou do último filme?
+33#Do you have plans for the weekend? - Você tem planos para o fim de semana?
+34#Have you been waiting too long? - Você está esperando há muito tempo?
+35#What a beautiful day, right? - Que dia lindo, né?
+36#This is a great place - Este é um ótimo lugar
+37#Are you awake? - Você está acordado?
+38#What day is it today? - Que dia é hoje?
+39#What’s for breakfast today? - O que tem para o café da manhã hoje?
+40#I didn’t sleep very well, I had a bad dream - Eu não dormi muito bem, eu tive um pesadelo
+41#Could you set the table, please? - Você poderia arrumar a mesa, por favor?
+42#Is lunch ready? - O almoço está pronto?
+43#Would you like to come over and play some videogame? - Você quer vir aqui e jogar um pouco de videogame?
+44#We have to go to the supermarket – Nós temos que ir ao supermercado
+45#Can you switch the light on? – Você pode ligar a luz?
+46#What would you like to do this evening? – O que você gostaria de fazer esta noite?
+47#What would you like for dinner? – O que você gostaria para o jantar?
+48#I’m taking a shower and going to bed. – Eu vou tomar um banho e ir para a cama.
+49#Do you want to watch a movie? – Você quer ver um filme?
+50#I’m going to bed. – Eu vou para a cama.
+51#I’m too tired. – Estou muito cansado(a).
